@@ -1,0 +1,11 @@
+compatibility_date = "2022-12-07"
+account_id = "590d5e6a4382a813b506fa45ca1609e0"
+main = "javascript-bot-template/index.js"
+
+[env.test]
+name = "rainy-jungle-372a"
+workers_dev = true
+
+[env.test.vars]
+APPLICATION_ID = "1050147304537071697"
+PUBLIC_KEY = "facdbdab2546149070f6b9433efcefc3bd8380ec485db995ee3e5ad42d7e2c91"
